@@ -1,0 +1,6 @@
+{
+	"name": "deserialize",
+	"tree": {
+		"$path": "src"
+	}
+}
